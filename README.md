@@ -1,6 +1,3 @@
-Data Scientist/Data Analyst
----------------------------
-
 * ✉️  You can contact me at [sabirmstfzd@gmail.com](mailto:sabirmstfzd@gmail.com)
 * 🤝  I'm open to collaborating on Data Science/Data Analysis projects
 
